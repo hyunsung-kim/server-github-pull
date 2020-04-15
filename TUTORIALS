@@ -16,7 +16,7 @@ $ sudo chown -R ubuntu:ubuntu /var/www/.ssh/
 
 3. user의 rsa 키를 생성
 ```
-$ sudo -Hu apache ssh-keygen -t rsa # passphrase를 설정하지 않습니다.
+$ sudo ssh-keygen -t rsa # passphrase를 설정하지 않습니다.
 ```
 
 4. 생성한 키의 값을 github 설정에 반영
