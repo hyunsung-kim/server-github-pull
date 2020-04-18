@@ -4,7 +4,7 @@ EC2 서버에서 Github의 키를 생성하고 등록한 후 `git pull`을 호�
 ## Feature
 - Restart server
 - Github source code pull
-- Generate RSA key
+- ~~Generate RSA key
 - Reigter Github url through cli
 
 
