@@ -10,4 +10,5 @@ EC2 서버에서 Github의 키를 생성하고 등록한 후 `git pull`을 호�
 
 
 ## Reference
-- [tqdm](https://github.com/tqdm/tqdm)
+- [Ubuntu 18.04 + python](https://www.fun25.co.kr/blog/ubuntu-18-04-python3-venv-setup/)
+- [Apt-get option](https://superuser.com/questions/164553/automatically-answer-yes-when-using-apt-get-install)
