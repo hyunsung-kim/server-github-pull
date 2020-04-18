@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt-get install python3-venv
+sudo apt-get install python3-venv
 
 mkdir .venv
 cd .venv
